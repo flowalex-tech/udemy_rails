@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 # Different ways to say hello Section 1 Lession 13
 # Just printing out hello world
 puts 'Hello World'

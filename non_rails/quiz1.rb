@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 address = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 p address
 #  Question 3:
